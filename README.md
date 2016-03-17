@@ -4,7 +4,7 @@ Java interface for reading Google calendar. It was made for entering commands in
 control my car heater or lights in my house. 
 
 ## Release notes
-* Version 1.0.0 - 2016-03-03
+* Version 1.0.0 - 2016-03-17
   * First release
 
 ### Maven usage
